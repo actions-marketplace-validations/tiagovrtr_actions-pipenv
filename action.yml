@@ -1,6 +1,6 @@
 name: "Python Pipenv Action"
 author: "@tiagovrtr"
-description: "An action to run https://github.com/pypa/pipenv"
+description: "An action to run https://github.com/pypa/pipenv based on https://github.com/abatilo/actions-poetry"
 branding:
   icon: "truck"
   color: "gray-dark"
